@@ -1,4 +1,4 @@
-f = open("E:\python\Python Automation/test.txt", "r")
+f = open("test.txt", "r")
 
 print(f.read())
 
